@@ -1,0 +1,8 @@
+ const names= require('./4-names')
+ const sayHi= require('./5-utils')
+ const hen=require('./6-alternate')
+ console.log(hen)
+require('./7-mind-grenade')
+sayHi(secret)
+sayHi(names.john)
+sayHi(names.peter)
